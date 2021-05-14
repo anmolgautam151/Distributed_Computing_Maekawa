@@ -23,11 +23,5 @@ Step by Step Commnands are as follows :::
 
 P.S. : If desired, password login for dc machines can be setup for easier execution.
 
-################## DEVELOPER CONTACT FOR BUG OR ISSUES ######################################
 
-Name : Anmol Gautam
-UTD Net ID : axg190014
-Email ID : axg190014@utdallas.edu
-
-###########################################  END ############################################
 
